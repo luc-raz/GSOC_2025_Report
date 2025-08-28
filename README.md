@@ -1,4 +1,4 @@
-# GSoC 2025 Final Report
+# GSoC 2025 Final Report: Optimizing the Pharo Compiler with bytecode-level Inlining
 
 **Name:** Andry RAZAFINDRAINIBE Radoniaina Lucio  
 **Organization:** Pharo Consortium  
